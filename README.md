@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nathan — a computer science student exploring data science and machine learning.<br> 🧠 I enjoy finding hidden patterns in data and using them to solve real-world problems.<br> 🏀 Currently building a sports analytics and match prediction model.<br> 💻 Tech I often work with: Python, NumPy, Pandas, Matplotlib, PyTorch, Streamlit<br> 🌱 Always learning more about AI and data-driven applications.<br>
+👋 Hi, I’m Nathan — a computer science student exploring data science and machine learning.<br> 🧠 I enjoy finding hidden patterns in data and using them to solve real-world problems.<br> 💻 Tech I often work with: Python, NumPy, Pandas, Matplotlib, PyTorch, Streamlit<br> 🌱 Always learning more about AI and data-driven applications.<br>
 
 
 ## 🌐 Socials:
